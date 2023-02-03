@@ -1,0 +1,32 @@
+.navbar{
+ display: inline-block;
+ margin-top:30px;
+ margin-left:82px;
+ padding-left:26px;
+ font-family: "BPG Nino Mtavruli", sans-serif;
+
+}
+.nav-main{
+	color:#EE4036;
+;
+}
+.nav-news,.nav-contact{
+	color:#3D58A6;	
+}
+.nav-contact3{
+	color:#EE4036;
+}
+.nav-news2{
+	color:#3D58A6;	
+
+}
+.nav-main1{
+	color:#3D58A6;	
+
+}
+.nav-news5{
+	color:#EE4036;
+}
+.nav-contact6,.nav-main4{
+	color:#3D58A6;
+}
